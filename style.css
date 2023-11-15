@@ -1,0 +1,17 @@
+H2{
+    color: palevioletred;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.mother{
+    color:red;
+    font-size: x-large;
+}
+
+.footer{
+    background-color: gold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: x-large;
+}
